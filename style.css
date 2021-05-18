@@ -2,16 +2,23 @@ h1 {
     text-align: left;
     background-color: black;
     color: white;
+    font-weight: bold;
+    font-family: sans-serif;
 }
 
 h2 {
     text-align: center;
     background-color: blueviolet;
     color: white;
+    font-weight: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h3{
     text-align: right;
     background-color: cornflowerblue;
     color: black;
+    text-decoration: underline;
+    font-weight: light;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
